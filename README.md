@@ -1,9 +1,4 @@
-# Introduction
-
-Hello! This is my first ever Hackintosh project. The machine is a bit odd, so I thought it would be nice to share the fruits of my research. This repository contains both the Hackintosh EFI files and some general information about the computer itself as it's not really well documented online. 
-
-The EFI is cleaned of "personal" information such as serial numbers and MAC address so if you intend to use it as something more than a reference for your own build, the information needs to be provided. I don't really recommend using it as anything more than reference material as I'm very inexperienced with Hackintosh.
-
+UPDATES TBT IN COLLAGE BUT WILL BE PICKED UP SOON!!!!!!!!!!
 # Table of Contents
 
 - [Hardware Specification](#hardware-specification)
